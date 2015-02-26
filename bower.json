@@ -1,0 +1,26 @@
+{
+  "name": "terra-js",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/terra-ui/terra-js",
+  "authors": [
+    "sam.bao@cerner.com"
+  ],
+  "description": "Terra JS is a JavaScript library built on top of Terra UI framework.",
+  "keywords": [
+    "terra",
+    "terra-ui",
+    "terra-js",
+    "terrajs",
+    "healthcare"
+  ],
+  "license": "Apache License v2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+
